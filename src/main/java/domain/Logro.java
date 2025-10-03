@@ -50,6 +50,5 @@ public class Logro {
         this.descripción = descripción;
     }
     
-    //Crear clase logro bin
     
 }
