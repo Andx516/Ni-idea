@@ -10,6 +10,6 @@ package domain;
  */
 public class Interesado {
     
-    
+    //Ver portafolio
     
 }
