@@ -1,6 +1,6 @@
 /*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
 package domain;
 
@@ -11,9 +11,10 @@ package domain;
  * <p>Esta clase almacena la identificación, la categoría y una descripción
  * detallada del logro alcanzado.
  *
- * @author Andrea Vega Villanueva
+ * @author Fracisco Javier Montecillo Puente
+ * Alumna: Andrea Vega Villanueva
  * @version 1.0
- * @since 2025-10-02
+ * @since 2025-10-03
  */
 public class Logro {
     

@@ -5,7 +5,7 @@
 package domain;
 
 /**
- * Intituto Tecnológico Superior de Salvatierra. Itess.
+ * Instituto Tecnológico Superior de Salvatierra. Itess.
  * @author Profesor: Francisco Javier Montecillo Puente. Alumno: Andrea Vega Villanueva 
  * Materia: Taller de investigación 1. TI-701
  * @since 2025-10-03
